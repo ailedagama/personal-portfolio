@@ -1,0 +1,147 @@
+[
+  {
+    "id": "design",
+    "title": "AI 设计能力",
+    "en": "AI DESIGN",
+    "intro": "将视觉需求转化为生成方向，通过参考约束、风格探索与迭代，形成可用于产品的视觉资产。",
+    "tags": [
+      "视觉探索",
+      "形象生成",
+      "设计迭代"
+    ],
+    "cases": [
+      {
+        "title": "科技休闲风个人形象",
+        "status": "已完成 · 本站案例",
+        "text": "以个人照片为参考，探索两种半身形象方案；根据反馈从商务风转向科技休闲风，最终选择轻机能夹克形象。",
+        "image": "assets/portrait-casual-b-jacket.png",
+        "link": "overview.html",
+        "label": "查看实际应用"
+      },
+      {
+        "title": "企业级 Agent 中台",
+        "status": "界面设计案例",
+        "text": "统一管理智能体与配套资源，用明确的租户、角色和资源范围组织企业级 AI 管理体验。",
+        "image": "assets/agent-platform-design.png",
+        "link": "ai-case-design-2.html",
+        "label": "查看案例"
+      }
+    ]
+  },
+  {
+    "id": "coding",
+    "title": "vibe coding",
+    "en": "VIBE CODING",
+    "intro": "用自然语言描述目标，结合 AI 编程与页面验证，把想法推进为可浏览、可交互的产品。",
+    "tags": [
+      "需求表达",
+      "界面实现",
+      "浏览器验证"
+    ],
+    "cases": [
+      {
+        "title": "家医袋 · 小程序",
+        "status": "小程序开发实践",
+        "text": "面向家庭检查报告整理，以 AI coding 协作推进需求表达、界面实现与开发工具预览。",
+        "image": "assets/family-health-miniapp.png",
+        "link": "ai-case-coding-1.html",
+        "label": "查看案例"
+      },
+      {
+        "title": "web网站·人物介绍",
+        "status": "Web AI 设计与开发",
+        "text": "通过 AI 协作完成个人介绍与作品展示网站，将职业定位、视觉风格、内容结构和交互反馈落实为可浏览页面。",
+        "image": "assets/personal-web-design.png",
+        "link": "ai-case-coding-2.html",
+        "label": "查看案例"
+      }
+    ]
+  },
+  {
+    "id": "agent",
+    "title": "智能体创作",
+    "en": "AGENT CREATION",
+    "intro": "围绕具体任务，组织智能体流程、知识上下文、工具调用与效果评测。",
+    "tags": [
+      "任务流程",
+      "知识上下文",
+      "评测反馈"
+    ],
+    "cases": [
+      {
+        "title": "智能问数 Agent",
+        "status": "智能体设计实践",
+        "text": "围绕业务主题组织查数、分析与报告协作，结合工具接入、技能约束、业务知识与模型配置构建问数链路。",
+        "image": "assets/query-agent-entry.png",
+        "link": "ai-case-agent-1.html",
+        "label": "查看案例"
+      },
+      {
+        "title": "产品智能客服",
+        "status": "智能体设计实践",
+        "text": "在产品内嵌智能助手，通过意图路由连接操作知识与标签信息，帮助用户获取使用说明和业务解答。",
+        "image": "assets/product-support-ui.png",
+        "link": "ai-case-agent-2.html",
+        "label": "查看案例"
+      }
+    ]
+  },
+  {
+    "id": "skill",
+    "title": "Skill 设计",
+    "en": "SKILL DESIGN",
+    "intro": "展示将可复用工作方法组织为明确输入、执行步骤和输出规范的技能设计。",
+    "tags": [
+      "输入输出",
+      "流程规范",
+      "复用与验证"
+    ],
+    "cases": [
+      {
+        "title": "企业招标技术规范书 AI 编写助手",
+        "status": "Skill 能力设计",
+        "text": "将客户调研、功能清单、逐章确认与规范校验组织成可复用 Skill，辅助产出可审阅的技术规范书草稿。",
+        "image": "assets/tech-spec-writer-cover.png",
+        "link": "ai-case-skill-1.html",
+        "label": "查看案例"
+      },
+      {
+        "title": "BI 数据洞察分析",
+        "status": "Skill 能力设计",
+        "text": "面向智能问数结果，按数据结构选择解读模式，提炼关键数字、变化、分布与异常，形成克制的业务说明。",
+        "image": "assets/chatbi-insight-cover.png",
+        "link": "ai-case-skill-2.html",
+        "label": "查看案例"
+      }
+    ]
+  },
+  {
+    "id": "media",
+    "title": "AIGC 音视频",
+    "en": "AIGC AUDIO & VIDEO",
+    "intro": "展示从创意、脚本和视听素材生成，到剪辑与成片呈现的音视频实践。",
+    "tags": [
+      "脚本与分镜",
+      "音视频生成",
+      "成片展示"
+    ],
+    "cases": [
+      {
+        "title": "坠落轨道",
+        "status": "AIGC 视频作品",
+        "text": "以跑车与空间站构建科幻视觉，通过参考图组织、分镜生成与视频合成，完成 AIGC 短片创作。",
+        "image": "assets/falling-orbit-cover.png",
+        "link": "ai-case-media-1.html",
+        "label": "观看作品"
+      },
+      {
+        "title": "晨间烟火",
+        "status": "AIGC 视频作品",
+        "text": "以街巷早餐与日常生活为视觉线索，组织参考图和视频生成节点，呈现温暖自然的 AIGC 生活影像。",
+        "image": "assets/morning-life-cover.jpg",
+        "link": "ai-case-media-2.html",
+        "label": "观看作品"
+      }
+    ]
+  }
+]

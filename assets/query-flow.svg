@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="1200" height="680">
+<style>text{font-family:"PingFang SC","Microsoft YaHei",sans-serif}</style>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#2563eb"/></marker></defs>
+<rect width="1200" height="680" rx="12" fill="#f8fafc"/>
+<text x="45" y="55" font-size="27" font-weight="600" fill="#111827">璟数 · 企业级智能问数 · 产品流程图</text>
+<text x="45" y="87" font-size="15" fill="#64748b">依据项目经历归纳的产品示意；不代表实际系统部署或生产界面</text>
+<rect x="350" y="115" width="500" height="54" rx="8" fill="#eff6ff" stroke="#bfd1e8"/>
+<text x="375" y="149" font-size="17" fill="#64748b">01</text>
+<text x="610" y="149" text-anchor="middle" font-size="20" fill="#111827">业务问题输入</text>
+<path d="M600 169V197" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#a)"/>
+<rect x="350" y="197" width="500" height="54" rx="8" fill="#eff6ff" stroke="#bfd1e8"/>
+<text x="375" y="231" font-size="17" fill="#64748b">02</text>
+<text x="610" y="231" text-anchor="middle" font-size="20" fill="#111827">意图与语义理解</text>
+<path d="M600 251V279" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#a)"/>
+<rect x="350" y="279" width="500" height="54" rx="8" fill="#eff6ff" stroke="#bfd1e8"/>
+<text x="375" y="313" font-size="17" fill="#64748b">03</text>
+<text x="610" y="313" text-anchor="middle" font-size="20" fill="#111827">知识与数据召回</text>
+<path d="M600 333V361" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#a)"/>
+<rect x="350" y="361" width="500" height="54" rx="8" fill="#eff6ff" stroke="#bfd1e8"/>
+<text x="375" y="395" font-size="17" fill="#64748b">04</text>
+<text x="610" y="395" text-anchor="middle" font-size="20" fill="#111827">Agent 任务执行</text>
+<path d="M600 415V443" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#a)"/>
+<rect x="350" y="443" width="500" height="54" rx="8" fill="#eff6ff" stroke="#bfd1e8"/>
+<text x="375" y="477" font-size="17" fill="#64748b">05</text>
+<text x="610" y="477" text-anchor="middle" font-size="20" fill="#111827">查询校验与权限控制</text>
+<path d="M600 497V525" fill="none" stroke="#2563eb" stroke-width="2" marker-end="url(#a)"/>
+<rect x="350" y="525" width="500" height="54" rx="8" fill="#eff6ff" stroke="#bfd1e8"/>
+<text x="375" y="559" font-size="17" fill="#64748b">06</text>
+<text x="610" y="559" text-anchor="middle" font-size="20" fill="#111827">结果与可视化呈现</text>
+<text x="45" y="653" font-size="14" fill="#64748b">图示为产品组织与流程归纳；AI 探索状态以案例说明为准。</text>
+</svg>

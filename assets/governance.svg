@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img">
+<title>数据灯塔 · 数据治理平台产品能力示意</title>
+<style>text{font-family:"PingFang SC","Microsoft YaHei",sans-serif}</style>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#2563eb"/></marker></defs>
+<rect width="1200" height="760" rx="20" fill="#ffffff"/>
+<text x="48" y="55" font-size="26" font-weight="600" fill="#111827">数据灯塔 · 数据治理平台 · 能力架构</text>
+<text x="48" y="88" font-size="15" fill="#6b7280">依据项目经历归纳的产品能力示意；不代表实际部署拓扑</text>
+<rect x="40" y="120" width="1120" height="102" rx="12" fill="#f8fafc" stroke="#d1d5db" stroke-dasharray="5 5"/>
+<text x="66" y="167" font-size="18" font-weight="600" fill="#111827">治理范围</text>
+<text x="66" y="192" font-size="13" fill="#6b7280">01 / CAPABILITY</text>
+<rect x="270" y="140" width="252" height="62" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+<text x="396" y="177" text-anchor="middle" font-size="17" fill="#111827">多业务数据仓库</text>
+<rect x="562" y="140" width="252" height="62" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+<text x="688" y="177" text-anchor="middle" font-size="17" fill="#111827">核心数据表</text>
+<rect x="854" y="140" width="252" height="62" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+<text x="980" y="177" text-anchor="middle" font-size="17" fill="#111827">业务敏感数据</text>
+<path d="M690 222V262" stroke="#2563eb" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="40" y="262" width="1120" height="102" rx="12" fill="#f8fafc" stroke="#d1d5db" stroke-dasharray="5 5"/>
+<text x="66" y="309" font-size="18" font-weight="600" fill="#111827">平台能力</text>
+<text x="66" y="334" font-size="13" fill="#6b7280">02 / CAPABILITY</text>
+<rect x="270" y="282" width="252" height="62" rx="8" fill="#eff6ff" stroke="#d1d5db"/>
+<text x="396" y="319" text-anchor="middle" font-size="17" fill="#111827">数据标准 / 元数据</text>
+<rect x="562" y="282" width="252" height="62" rx="8" fill="#eff6ff" stroke="#d1d5db"/>
+<text x="688" y="319" text-anchor="middle" font-size="17" fill="#111827">质量规则 / 异常告警</text>
+<rect x="854" y="282" width="252" height="62" rx="8" fill="#eff6ff" stroke="#d1d5db"/>
+<text x="980" y="319" text-anchor="middle" font-size="17" fill="#111827">分级分类 / 权限脱敏</text>
+<path d="M690 364V404" stroke="#2563eb" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="40" y="404" width="1120" height="102" rx="12" fill="#f8fafc" stroke="#d1d5db" stroke-dasharray="5 5"/>
+<text x="66" y="451" font-size="18" font-weight="600" fill="#111827">治理执行</text>
+<text x="66" y="476" font-size="13" fill="#6b7280">03 / CAPABILITY</text>
+<rect x="270" y="424" width="252" height="62" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+<text x="396" y="461" text-anchor="middle" font-size="17" fill="#111827">规范与协作机制</text>
+<rect x="562" y="424" width="252" height="62" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+<text x="688" y="461" text-anchor="middle" font-size="17" fill="#111827">异常问题整改闭环</text>
+<rect x="854" y="424" width="252" height="62" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+<text x="980" y="461" text-anchor="middle" font-size="17" fill="#111827">血缘 / 冷热数据管理</text>
+<path d="M690 506V546" stroke="#2563eb" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="40" y="546" width="1120" height="102" rx="12" fill="#f8fafc" stroke="#d1d5db" stroke-dasharray="5 5"/>
+<text x="66" y="593" font-size="18" font-weight="600" fill="#111827">智能与价值</text>
+<text x="66" y="618" font-size="13" fill="#6b7280">04 / CAPABILITY</text>
+<rect x="270" y="566" width="252" height="62" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+<text x="396" y="603" text-anchor="middle" font-size="17" fill="#111827">AI 辅助元数据</text>
+<rect x="562" y="566" width="252" height="62" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+<text x="688" y="603" text-anchor="middle" font-size="17" fill="#111827">内容识别 / 完善 / 维护</text>
+<rect x="854" y="566" width="252" height="62" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+<text x="980" y="603" text-anchor="middle" font-size="17" fill="#111827">质量 / 效率 / 成本改善</text>
+<text x="48" y="735" font-size="14" fill="#6b7280">蓝色箭头：能力组织顺序；非实际系统调用关系。AI 探索状态以案例文字说明为准。</text>
+</svg>

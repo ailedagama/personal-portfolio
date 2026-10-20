@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="1200" height="680">
+<style>text{font-family:"PingFang SC","Microsoft YaHei",sans-serif}</style>
+<defs><marker id="a" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0L8 4L0 8" fill="#2563eb"/></marker></defs>
+<rect width="1200" height="680" rx="12" fill="#f8fafc"/>
+<text x="45" y="55" font-size="27" font-weight="600" fill="#111827">智能画像平台 · 信息架构图</text>
+<text x="45" y="87" font-size="15" fill="#64748b">依据项目经历归纳的产品示意；不代表实际系统部署或生产界面</text>
+<rect x="430" y="125" width="340" height="58" rx="8" fill="#dbeafe" stroke="#bfd1e8"/>
+<text x="600" y="162" text-anchor="middle" font-size="21" fill="#111827">产品能力结构</text>
+<path d="M600 183V223M180 223H1020" fill="none" stroke="#2563eb" stroke-width="2"/>
+<path d="M180 223V260" stroke="#2563eb" stroke-width="2" marker-end="url(#a)"/>
+<rect x="55" y="260" width="250" height="310" rx="10" fill="#fff" stroke="#cbd5e1"/>
+<text x="180" y="305" text-anchor="middle" font-size="21" font-weight="600" fill="#111827">标签管理</text>
+<rect x="73" y="335" width="214" height="48" rx="6" fill="#f1f5f9"/>
+<text x="180" y="366" text-anchor="middle" font-size="18" fill="#334155">标签体系</text>
+<rect x="73" y="407" width="214" height="48" rx="6" fill="#f1f5f9"/>
+<text x="180" y="438" text-anchor="middle" font-size="18" fill="#334155">管理 SOP</text>
+<rect x="73" y="479" width="214" height="48" rx="6" fill="#f1f5f9"/>
+<text x="180" y="510" text-anchor="middle" font-size="18" fill="#334155">标签服务</text>
+<path d="M465 223V260" stroke="#2563eb" stroke-width="2" marker-end="url(#a)"/>
+<rect x="340" y="260" width="250" height="310" rx="10" fill="#fff" stroke="#cbd5e1"/>
+<text x="465" y="305" text-anchor="middle" font-size="21" font-weight="600" fill="#111827">画像数据</text>
+<rect x="358" y="335" width="214" height="48" rx="6" fill="#f1f5f9"/>
+<text x="465" y="366" text-anchor="middle" font-size="18" fill="#334155">用户画像</text>
+<rect x="358" y="407" width="214" height="48" rx="6" fill="#f1f5f9"/>
+<text x="465" y="438" text-anchor="middle" font-size="18" fill="#334155">设备画像</text>
+<rect x="358" y="479" width="214" height="48" rx="6" fill="#f1f5f9"/>
+<text x="465" y="510" text-anchor="middle" font-size="18" fill="#334155">行为与业务数据</text>
+<path d="M750 223V260" stroke="#2563eb" stroke-width="2" marker-end="url(#a)"/>
+<rect x="625" y="260" width="250" height="310" rx="10" fill="#fff" stroke="#cbd5e1"/>
+<text x="750" y="305" text-anchor="middle" font-size="21" font-weight="600" fill="#111827">业务应用</text>
+<rect x="643" y="335" width="214" height="48" rx="6" fill="#f1f5f9"/>
+<text x="750" y="366" text-anchor="middle" font-size="18" fill="#334155">精准运营</text>
+<rect x="643" y="407" width="214" height="48" rx="6" fill="#f1f5f9"/>
+<text x="750" y="438" text-anchor="middle" font-size="18" fill="#334155">投放 / ABTest</text>
+<rect x="643" y="479" width="214" height="48" rx="6" fill="#f1f5f9"/>
+<text x="750" y="510" text-anchor="middle" font-size="18" fill="#334155">风控服务</text>
+<path d="M1035 223V260" stroke="#2563eb" stroke-width="2" marker-end="url(#a)"/>
+<rect x="910" y="260" width="250" height="310" rx="10" fill="#fff" stroke="#cbd5e1"/>
+<text x="1035" y="305" text-anchor="middle" font-size="21" font-weight="600" fill="#111827">AI 探索</text>
+<rect x="928" y="335" width="214" height="48" rx="6" fill="#f1f5f9"/>
+<text x="1035" y="366" text-anchor="middle" font-size="18" fill="#334155">画像理解</text>
+<rect x="928" y="407" width="214" height="48" rx="6" fill="#f1f5f9"/>
+<text x="1035" y="438" text-anchor="middle" font-size="18" fill="#334155">特征变化洞察</text>
+<rect x="928" y="479" width="214" height="48" rx="6" fill="#f1f5f9"/>
+<text x="1035" y="510" text-anchor="middle" font-size="18" fill="#334155">报告总结</text>
+<text x="45" y="653" font-size="14" fill="#64748b">图示为产品组织与流程归纳；AI 探索状态以案例说明为准。</text>
+</svg>
